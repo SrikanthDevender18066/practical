@@ -1,4 +1,4 @@
 # practical
 java practical
 react project
-[pinch of yum](https://srikanth18066.netlify.app/) 
+[cake shop](https://18066srikanth.netlify.app/) 
