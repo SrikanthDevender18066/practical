@@ -1,3 +1,4 @@
 # practical
-java practicals
-[react website](https://18066srikanth.netlify.app/) 
+java practical
+react project
+[pinch of yum](https://srikanth18066.netlify.app/) 
